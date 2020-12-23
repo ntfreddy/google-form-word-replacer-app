@@ -8,6 +8,6 @@ https://developers.google.com/apps-script/guides/clasp#create_a_new_apps_script_
 1. First create empty github repository
 2. git clone https://github.com/ntfreddy/google-form-word-replacer-app.git
 3. cd google-form-word-replacer-app
-4. clasp clone and choose the corresponding google script
+4. clasp clone 1IwTEmNw6cZGJl0Lhg0qGSMydyZ5BR2D0nuquhgFm8se9JqPqBQ-qfAMq
 5. git add .
-6. git commit -m "initial release"
+6. git commit -m "added google script"
